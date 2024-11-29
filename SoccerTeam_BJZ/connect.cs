@@ -15,7 +15,7 @@ namespace SoccerTeam
         public connect()
         {
             Host = "localhost";
-            Database = "team";
+            Database = "Football";
             User = "root";
             Password = "";
 
